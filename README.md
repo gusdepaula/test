@@ -1,3 +1,15 @@
+Hi, my name is Gustavo, and I am a Frontend Developer with almost 20 years of experience in the field.
+
+Currently, I work as a Tech Lead Frontend at [sua empresa atual, se puder mencionar], leading a team of [quantidade] developers. My team consists of frontend and backend developers, as well as QA engineers and designers.
+
+Throughout my career, I have worked at companies such as Boticário, Walmart, Grupo Pão de Açúcar, and Gol Linhas Aéreas, gaining solid experience in JavaScript, Angular, React, and Vanilla JS. My main expertise lies in developing scalable and high-performance web applications, creating impactful user interfaces, and mentoring junior developers.
+
+I primarily work with the Microsoft Azure ecosystem, although I have also had some experience with AWS. My current tech stack includes JavaScript (ES6+), TypeScript, React, Angular, HTML, CSS, and Sass, as well as tools like Webpack and Jest for testing.
+
+I am based in Brazil (GMT-3) and have an advanced level of English, which allows me to work effectively in international teams and communicate fluently in technical and business discussions.
+
+Would you like me to refine any part of this based on your preferences? 
+
 **1. What’s your experience with JavaScript code?**
 
 I have extensive experience with JavaScript, having worked with both vanilla JavaScript and frameworks like Angular and React. I am proficient in writing maintainable and scalable code, leveraging modern JavaScript features such as ES6+ syntax, asynchronous programming, and functional programming paradigms.
