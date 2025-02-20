@@ -107,9 +107,6 @@ TypeScript provides static typing, interfaces, and other features that enhance J
 **4. Can you write SQL queries?**\
 Yes, I have experience writing SQL queries for CRUD operations.
 
-Aqui estão as respostas em inglês para as perguntas:  
-
----
 
 ### **1️⃣ What types of relationships are possible in a relational database?**  
 In a relational database, there are three main types of relationships between tables:  
@@ -165,10 +162,6 @@ Each document is a self-contained object with key-value pairs, nested structures
 - **Scalability:** Often used in NoSQL databases like MongoDB and CouchDB, which scale horizontally to handle large amounts of data.  
 
 JSON databases are widely used in applications that require flexibility and high performance, such as real-time web applications and big data processing.  
-
----
-
-Se precisar de ajustes ou explicações mais detalhadas, só me avisar! 🚀
 
 ---
 
