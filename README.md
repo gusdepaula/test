@@ -107,6 +107,69 @@ TypeScript provides static typing, interfaces, and other features that enhance J
 **4. Can you write SQL queries?**\
 Yes, I have experience writing SQL queries for CRUD operations.
 
+Aqui estão as respostas em inglês para as perguntas:  
+
+---
+
+### **1️⃣ What types of relationships are possible in a relational database?**  
+In a relational database, there are three main types of relationships between tables:  
+
+- **One-to-One (1:1)** – Each record in Table A is related to exactly one record in Table B, and vice versa.  
+  - *Example:* A person and their passport. Each person has only one passport, and each passport belongs to only one person.  
+
+- **One-to-Many (1:N)** – A record in Table A can have multiple related records in Table B, but a record in Table B belongs to only one record in Table A.  
+  - *Example:* A customer and their orders. One customer can place multiple orders, but each order belongs to only one customer.  
+
+- **Many-to-Many (M:N)** – A record in Table A can be associated with multiple records in Table B, and vice versa. This relationship usually requires a **junction table**.  
+  - *Example:* Students and courses. A student can enroll in multiple courses, and each course can have multiple students.  
+
+---
+
+### **2️⃣ How would you describe the concept of database normalization to someone who is not a developer?**  
+Database normalization is a process used to organize data efficiently by eliminating redundancy and ensuring data integrity.  
+
+Imagine you own a **library** and keep a **list of books**. If you write the book's title, author, and publisher in every record, you are **duplicating** a lot of information. Instead, you can store authors and publishers in separate tables and just reference them by an ID.  
+
+Normalization helps by:  
+✅ Reducing duplicate data (saving storage space)  
+✅ Making updates easier (changing an author’s name in one place instead of multiple records)  
+✅ Preventing inconsistencies  
+
+In simple terms, it’s like **organizing your closet**: instead of throwing everything in one big drawer, you separate clothes into different sections, making it easier to find and manage them.  
+
+---
+
+### **3️⃣ How is data stored in a JSON database?**  
+In a JSON-based database, data is stored as **JSON (JavaScript Object Notation) documents**, rather than traditional rows and columns like in relational databases.  
+
+Each document is a self-contained object with key-value pairs, nested structures, and arrays. For example:  
+
+```json
+{
+  "id": 1,
+  "name": "John Doe",
+  "email": "john@example.com",
+  "orders": [
+    {
+      "order_id": 101,
+      "total": 50.75,
+      "items": ["Laptop", "Mouse"]
+    }
+  ]
+}
+```
+  
+### **Key characteristics of JSON databases:**  
+- **Schema-flexible:** Unlike relational databases, JSON databases don’t require a fixed schema, allowing for dynamic and evolving data structures.  
+- **Nested data support:** Instead of using multiple tables and relationships, JSON allows embedding related data directly inside a document.  
+- **Scalability:** Often used in NoSQL databases like MongoDB and CouchDB, which scale horizontally to handle large amounts of data.  
+
+JSON databases are widely used in applications that require flexibility and high performance, such as real-time web applications and big data processing.  
+
+---
+
+Se precisar de ajustes ou explicações mais detalhadas, só me avisar! 🚀
+
 ---
 
 **5. How does REST API work?**\
