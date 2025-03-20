@@ -1,18 +1,8 @@
-Hi, my name is Gustavo, and I am a Frontend Developer with almost 20 years of experience in the field.
+Hello, my name is Gustavo, and I’m a Tech Lead and Frontend Developer with nearly 20 years of experience in the industry. My expertise includes HTML, CSS, JavaScript, TypeScript, AngularJS, Angular, and React. I am passionate about delivering high-impact digital experiences while ensuring performance, accessibility, and user satisfaction."
+ 
+Throughout my career, I have contributed to major companies such as Gol Linhas Aéreas, Certisign, Walmart, and Boticário, where I took on technical leadership responsibilities and mentored developers. I enjoy working in innovative environments and collaborating with cross-functional teams to create scalable and high-quality software solutions.
 
-Currently, I work as a Tech Lead Frontend at [sua empresa atual, se puder mencionar], leading a team of [quantidade] developers. My team consists of frontend and backend developers, as well as QA engineers and designers.
-
-Throughout my career, I have worked at companies such as Boticário, Walmart, Grupo Pão de Açúcar, and Gol Linhas Aéreas, gaining solid experience in JavaScript, Angular, React, and Vanilla JS. My main expertise lies in developing scalable and high-performance web applications, creating impactful user interfaces, and mentoring junior developers.
-
-I primarily work with the Microsoft Azure ecosystem, although I have also had some experience with AWS. My current tech stack includes JavaScript (ES6+), TypeScript, React, Angular, HTML, CSS, and Sass, as well as tools like Webpack and Jest for testing.
-
-I am based in Brazil (GMT-3) and have an advanced level of English, which allows me to work effectively in international teams and communicate fluently in technical and business discussions.
-
-Would you like me to refine any part of this based on your preferences? 
-
-**1. What’s your experience with JavaScript code?**
-
-I have extensive experience with JavaScript, having worked with both vanilla JavaScript and frameworks like Angular and React. I am proficient in writing maintainable and scalable code, leveraging modern JavaScript features such as ES6+ syntax, asynchronous programming, and functional programming paradigms.
+Currently, I am expanding my knowledge in Project Management because I believe that technology, combined with strong leadership and strategy, can generate even greater business impact.
 
 **Sample questions:**
 
