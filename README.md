@@ -4,7 +4,7 @@ Tech Lead & Frontend Developer
 
 **Current Company, Team Size, and Team Composition**
 
-Currently open to new opportunities. Previously worked in cross-functional teams, collaborating with backend developers, UX/UI designers, and product managers in agile environments.
+I currently work at Gol Linhas Aéreas, leading frontend development within a team composed of 4 frontend developers, 1 Product Owner (PO), 1 Agile Master, 1 UX Designer, 1 UX Writer, 4 testers, and 1 solution architect.
 
 **Years of Experience and Past Employers**
 
