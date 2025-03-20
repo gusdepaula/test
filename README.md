@@ -1,22 +1,27 @@
 **Current Position**
+
 Tech Lead & Frontend Developer
 
 **Current Company, Team Size, and Team Composition**
+
 Currently open to new opportunities. Previously worked in cross-functional teams, collaborating with backend developers, UX/UI designers, and product managers in agile environments.
 
 **Years of Experience and Past Employers**
+
 Nearly 20 years of experience in frontend development, having worked at major companies such as Gol Linhas Aéreas, Certisign, Walmart, Grupo Pão de Açúcar, and Boticário.
 
 **The Stack You Work With**
-Languages & Core Technologies: JavaScript, TypeScript, HTML, CSS
-Frameworks & Libraries: Angular (AngularJS & latest versions), React
-State Management: Angular Signals, Redux, NgRx
-Testing Tools: Jasmine, Karma, Cypress
-Cloud & DevOps: Experience mainly with Azure and some exposure to AWS
-Country of Residence and Time Zone
-Based in Brazil (BRT - Brasília Time, UTC -3)
+
+- Languages & Core Technologies: JavaScript, TypeScript, HTML, CSS
+- Frameworks & Libraries: Angular (AngularJS & latest versions), React
+- State Management: Angular Signals, Redux, NgRx
+- Testing Tools: Jasmine, Karma, Cypress
+- Cloud & DevOps: Experience mainly with Azure and some exposure to AWS
+- Country of Residence and Time Zone
+- Based in Brazil (BRT - Brasília Time, UTC -3)
 
 **English Language Skills**
+
 C1 - Advanced level, capable of working in international teams, participating in technical discussions, and leading projects in English.
 
 **1. What’s your experience with JavaScript code?**
