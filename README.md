@@ -273,6 +273,7 @@ Object-oriented programming (OOP) is a programming paradigm that organizes code 
   Classical inheritance (as in Java or C#) uses classes, while prototype inheritance (JavaScript) allows objects to inherit properties directly from other objects via the prototype chain.
 
 **13. What is functional programming?**
+
 Functional programming is a programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing state or mutable data. It emphasizes the use of pure functions, higher-order functions, and immutable data structures.
 
 **Sample questions:**
@@ -302,6 +303,7 @@ Functional programming is a programming paradigm that treats computation as the 
 ---
 
 **14. What frameworks do you work with?**
+
 Frameworks provide structure and enforce design patterns in software development. In front-end development, frameworks help manage UI complexity and maintainability.
 
 **Sample questions:**
@@ -328,21 +330,30 @@ Frameworks provide structure and enforce design patterns in software development
 ---
 
 **15. What’s your experience with styling tools?**
+
+I have extensive experience with styling tools, primarily working with CSS, Sass, and frameworks like Bootstrap and Tailwind CSS. Throughout my career, I’ve developed and maintained scalable and maintainable stylesheets for enterprise applications. I also have strong skills in CSS-in-JS solutions, such as Styled Components and Emotion, particularly when working with React.
+
+Additionally, I focus on writing modular and reusable styles, ensuring accessibility and performance optimization. In my past roles, I’ve led frontend teams in defining and maintaining design systems, ensuring consistency across multiple applications.
+
 Styling tools help developers implement designs efficiently, ensuring consistency and responsiveness.
 
 **Sample questions:**
 
 - **Which is more responsive, Grid or Flex?**
+  
   CSS Grid is more suitable for complex layouts, while Flexbox is better for aligning elements in a single direction (row or column).
 
 - **What are the most popular UI frameworks?**
+  
   Bootstrap, Material UI, Tailwind CSS, and Ant Design.
 
 - **What are the advantages and disadvantages of using CSS preprocessors?**
+
   - Advantages: Variables, mixins, nested rules, and better organization.
   - Disadvantages: Additional compilation step, learning curve, and potential performance issues.
 
 - **Name common CSS selectors that use the `div` tag and their purpose.**
+
   - `.className`: Targets elements with a specific class.
   - `#idName`: Targets a specific element with an ID.
   - `div > p`: Targets direct child `p` elements inside a `div`.
@@ -351,7 +362,16 @@ Styling tools help developers implement designs efficiently, ensuring consistenc
 ---
 
 **16. How do you test an application?**
-Testing ensures software quality by catching bugs and verifying functionality before deployment.
+
+In my experience with AngularJS, I follow a structured approach to testing to ensure application reliability. I primarily work with unit tests, integration tests, and end-to-end (E2E) tests.
+
+For unit testing, I use Jasmine as the testing framework along with Karma as the test runner. This helps validate individual components, controllers, services, and directives in isolation. I focus on mocking dependencies using $httpBackend to simulate API responses and ensure services behave as expected.
+
+For integration testing, I verify how multiple components interact by testing directives and services together. I also mock API calls to ensure smooth communication between different modules.
+
+For end-to-end (E2E) testing, I have experience with Protractor, which is specifically designed for AngularJS applications. It allows me to simulate real user interactions, navigate through the app, and ensure that the full workflow functions correctly.
+
+Besides automated testing, I also conduct manual testing, focusing on edge cases, performance, and accessibility.
 
 **Sample questions:**
 
@@ -359,7 +379,13 @@ Testing ensures software quality by catching bugs and verifying functionality be
   Tools like Selenium, Postman, and Cypress are used for manual testing.
 
 - **What is unit testing, and why is it important?**
-  Unit testing tests individual components or functions to ensure they work as expected, reducing bugs early in development.
+  Unit testing involves testing individual components, services, or functions in isolation to ensure they behave as expected.
+
+  It is important because:
+  - It detects bugs early, reducing costs in later stages.
+  - It ensures code reliability when making updates.
+  - It helps maintainability and improves developer confidence.
+  - In Angular, Jasmine and Karma are commonly used for unit tests, with TestBed providing a way to configure and test Angular modules.
 
 - **What is the primary purpose of integration testing?**
   Integration testing checks how different modules or components work together.
