@@ -1,8 +1,29 @@
-Hello, my name is Gustavo, and I’m a Tech Lead and Frontend Developer with nearly 20 years of experience in the industry. My expertise includes HTML, CSS, JavaScript, TypeScript, AngularJS, Angular, and React. I am passionate about delivering high-impact digital experiences while ensuring performance, accessibility, and user satisfaction."
- 
-Throughout my career, I have contributed to major companies such as Gol Linhas Aéreas, Certisign, Walmart, and Boticário, where I took on technical leadership responsibilities and mentored developers. I enjoy working in innovative environments and collaborating with cross-functional teams to create scalable and high-quality software solutions.
+**Current Position**
+Tech Lead & Frontend Developer
 
-Currently, I am expanding my knowledge in Project Management because I believe that technology, combined with strong leadership and strategy, can generate even greater business impact.
+**Current Company, Team Size, and Team Composition**
+Currently open to new opportunities. Previously worked in cross-functional teams, collaborating with backend developers, UX/UI designers, and product managers in agile environments.
+
+**Years of Experience and Past Employers**
+Nearly 20 years of experience in frontend development, having worked at major companies such as Gol Linhas Aéreas, Certisign, Walmart, Grupo Pão de Açúcar, and Boticário.
+
+**The Stack You Work With**
+Languages & Core Technologies: JavaScript, TypeScript, HTML, CSS
+Frameworks & Libraries: Angular (AngularJS & latest versions), React
+State Management: Angular Signals, Redux, NgRx
+Testing Tools: Jasmine, Karma, Cypress
+Cloud & DevOps: Experience mainly with Azure and some exposure to AWS
+Country of Residence and Time Zone
+Based in Brazil (BRT - Brasília Time, UTC -3)
+
+**English Language Skills**
+C1 - Advanced level, capable of working in international teams, participating in technical discussions, and leading projects in English.
+
+**1. What’s your experience with JavaScript code?**
+
+Over the years, I have worked extensively with Vanilla JavaScript, TypeScript, AngularJS, Angular (latest versions), and React, building scalable and performant applications.
+
+I have experience optimizing JavaScript for performance, accessibility, and maintainability, ensuring smooth user experiences. My expertise includes state management, asynchronous programming (Promises, async/await, Observables), and integrating with APIs.
 
 **Sample questions:**
 
